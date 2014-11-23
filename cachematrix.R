@@ -1,4 +1,5 @@
-## The functions below calculated and caches the inverse of a matrix
+## UXDEAB: Coursera Programming 2 Assignment
+## The functions below calculates and caches the inverse of a matrix
 
 ## This function makeCacheMatrix creates a special vector which 
 ## sets and gets the value of the matrix and sets and gets its inverse
